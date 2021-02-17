@@ -83,3 +83,13 @@ a {
 #nav a {
     color: #f9f2f4;
 }
+/*����*/
+@font-face{
+  font-family:'Candyhome' ;  /* �������Զ��弴�� */
+  src:url('/fonts/Candy.ttf'); /* �����ļ�·�� */
+  font-display : swap;
+}
+
+h1#site-title {
+  font-family: 'Candyhome', sans-serif;
+}
